@@ -1,0 +1,20 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "Connecting a SQL database with Node.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hllrsn/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hllrsn/Bamazon/issues"
+  },
+  "homepage": "https://github.com/hllrsn/Bamazon#readme"
+}
